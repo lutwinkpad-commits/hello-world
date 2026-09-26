@@ -1,3 +1,15 @@
 # Hello World
 
-A small Python hello-world project.
+A minimal Python program that prints a greeting.
+
+## Run
+
+```sh
+python3 hello.py
+```
+
+## Test
+
+```sh
+python3 -m unittest
+```
